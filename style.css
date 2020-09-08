@@ -15,6 +15,13 @@
     height: 10px;
     border-radius: 5px;
 }
+.carousel-indicators li{
+    background: gray;
+    border: none;
+    width: 2.5rem;
+    height: 10px;
+    border-radius: 5px;
+}
 .orange-color{
     color: orange;
 }
