@@ -38,14 +38,13 @@
     
     
 }
-.categories{
-    height: 750px;
-}
+
 .pale img{
     width: 100%;
 }
+
 .border{
-    padding: 50px 40px;
+    padding: 55px 40px;
     border: none;
     box-shadow: 3px 3px 10px lightgrey;
     border-radius: 10px;
